@@ -4,7 +4,7 @@ In this work, I handled with weather data and createn ML model for predict tempe
 
 Weather data includes a hourly/daily summary for Szeged, Hungary area, between 2006 and 2016.
 
-Observation units of data: 96453
+Observation units: 96453
 
 Features:<br>
 time<br>
